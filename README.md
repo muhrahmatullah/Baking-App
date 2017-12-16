@@ -1,3 +1,3 @@
 # Baking App
 
-The app is done and working smooth
+The app is done and working smooth and awesome
